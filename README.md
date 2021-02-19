@@ -10,10 +10,10 @@
 <!-- Platform Badges -->
 <div>
  <!-- Hack The Box -->
- <img src="http://www.hackthebox.eu/badge/image/34230" alt="Hack The Box">
+ <img src="http://www.hackthebox.eu/badge/image/34230" alt="Hack The Box" style="width: 100%; height: auto;">
  
  <!-- TryHackMe -->
- <img src="images/0xreloadedd.png" alt="TryHackMe" align="right">
+ <img src="images/0xreloadedd.png" alt="TryHackMe" align="right" style="width: 100%; height: auto;">
 </div>
 
 ## `$ stat reloadedd`
@@ -21,7 +21,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=reloadedd&count_private=true&show_icons=true&theme=dark&include_all_commits=true" align="center" />
 </a>
 
-<a href="https://github.com/TudorGalatan?tab=repositories">
+<a href="https://github.com/reloadedd?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reloadedd&langs_count=10&theme=dark&layout=compact&card_width=270" align="center" />
 </a>
 
