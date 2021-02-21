@@ -2,7 +2,7 @@
 
 ## `$ whoami`
 - 📚 Computer Science student at *Faculty of Computer Science of Iași, România*.
-- 🖥 Cybersecurity enthusiast and *future* hacker.
+- 🖥 Cybersecurity enthusiast and *future* white hat hacker.
 - 🌱 I’m currently learning binary exploitation, reverse engineering, cryptography.
 - 🤔 I’m looking for a summer internship, preferably on cybersecurity, in Iași or remote.
 - 📫 How to reach me: You can email me at reloadedd@protonmail.com
