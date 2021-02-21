@@ -1,4 +1,4 @@
-# Hi there 👋
+# `$ echo 'Hi there 👋'`
 
 ## `$ whoami`
 - 📚 Computer Science student at *Faculty of Computer Science of Iași, România*.
@@ -10,10 +10,10 @@
 <!-- Platform Badges -->
 <div>
  <!-- Hack The Box -->
- <img src="http://www.hackthebox.eu/badge/image/34230" alt="Hack The Box" style="width: 100%; height: auto;">
+ <img src="http://www.hackthebox.eu/badge/image/34230" alt="Hack The Box">
  
  <!-- TryHackMe -->
- <img src="images/0xreloadedd.png" alt="TryHackMe" align="right" style="width: 100%; height: auto;">
+ <img src="images/0xreloadedd.png" alt="TryHackMe" align="right">
 </div>
 
 ## `$ stat reloadedd`
