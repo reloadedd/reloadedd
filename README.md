@@ -40,7 +40,7 @@
 </a>
 
 <a href="https://github.com/reloadedd/UniversalStorageTool">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reloadedd&repo=Web-Technologies&theme=dark&hide_border" align="center" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reloadedd&repo=UniversalStorageTool&theme=dark&hide_border" align="center" />
 </a>
 
 ## `$ ls -l learning`
