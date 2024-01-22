@@ -44,6 +44,10 @@
   - 📎 [ʀᴇʟᴏᴀᴅᴇᴅᴅ/ᴢᴇʀᴏ](https://github.com/reloadedd/Zero)
 
 ---
-<img src="https://raw.githubusercontent.com/reloadedd/reloadedd/output/github-contribution-grid-snake.svg" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reloadedd/reloadedd/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reloadedd/reloadedd/output/github-contribution-grid-snake.svg" width="100%" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <p align="right"><sub>The resources used for creating this README file can be found inside the <a href="https://github.com/reloadedd/reloadedd/blob/master/RESOURCES.md">RESOURCES.md</a> file.</sub></p>
